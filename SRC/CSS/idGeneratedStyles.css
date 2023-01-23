@@ -1,0 +1,35 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Quadro-de-gr-fico-b-sico {
+	border-color:#FFFFFF;
+	border-width:1px;
+	border-style:solid;
+}
+img._idGenObjectAttribute-1 {
+	height:75.00%;
+	min-width:75%;
+	width:75.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
+img._idGenObjectAttribute-2 {
+	height:83.00%;
+	min-width:83%;
+	width:83.00%;
+}
+div._idGenObjectStyleOverride-2 {
+	border-width:0px;
+}
+div._idGenObjectLayout-2 {
+	text-align:center;
+}
